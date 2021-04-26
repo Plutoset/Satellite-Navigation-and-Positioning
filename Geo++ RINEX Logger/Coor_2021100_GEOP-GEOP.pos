@@ -1,0 +1,48 @@
+%====================NET Diff V1.12======================
+% A software for GNSS Download, Positioning and Analysis.
+%  Developed by Yize Zhang, zhyize@163.com
+%  Tokyo University of Marine Science and Technology
+%  Shanghai Astronomical Observatory
+%(c) 2018~2020. TUMSAT & SHAO. All rights reserved.
+%--------------------------------------------------------
+%          day: 2021100
+%     Station Fixed: 
+%  Station Estimated:
+%     GEOP          0.000          0.000          0.000     0.000     0.000     0.000     samsung                  SM-G9750            
+%  eopfile:         Input/EOP.txt
+%  antfile:         Input/igs14_2097.atx
+%planetfile:        Input/Planet.bin
+% tidefile:         Input/tide.txt
+%glofrefile:        Input/GLOFre.txt
+% p1c1file:         Input/P1C11812.DCB
+%  dcbfile:         Input/
+%  obstype:         RNX
+%   obsdir:         Obs/
+%  sp3file:         igs/gbm21526.sp3
+%  clkfile:         igs/gbm21526.clk
+%interva(s):       30.0
+%   limele:          10
+%   limSNR:           0
+% stomodel:         ELE1
+%  maxpdop:         100
+%trop_model:       GPT2_1w  SAAS VMF1
+% trop_len:        3600
+%   t_start:       2021  4 10  7  0  0.0 2152  543600
+%    t_end:        2021  4 10 23 59 59.0 2152  604799
+%freq_comb:        G:L1L2    R:L1L2    C:B1B2    E:E1E5a   J:L1L2      
+%combination:      Code 0.3  Phase 0.003
+%systemused:        GPS  GLONASS    BDS  GALILEO   QZSS    
+% admethod:          KF
+%  postype:       Forward
+%pos_state:           S
+% proc_mod:           0      (PPP)
+% est_iono:           F
+%      isb:           T  RW  1.0
+%      ifb:           T  FD
+%cycleslip:       GF_MW               
+%obscombine:          PC
+%   smooth:           n Hatch P1P2    0
+%  posfile:           T
+%   outdir:              out/
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,ns=# of satellites)
+%  GPST                  latitude(deg) longitude(deg)  height(m)    Q  ns     X(ECEF/m)      Y(ECEF/m)      Z(ECEF/m)
